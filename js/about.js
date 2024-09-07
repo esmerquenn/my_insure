@@ -15,7 +15,7 @@ function updateContent(page, language) {
    Məlumat
   </h1>
         <p class="mt-5 md:text-[1.2rem] text-white">
-          www.1sigorta.az saytı 19.07.2024-cü il tarixində Mircəfər Mirəli oğlu Cəfərov tərəfindən təsis edilmiş, Azərbaycan
+          www.myinsure.com saytı 19.07.2024-cü il tarixində Mircəfər Mirəli oğlu Cəfərov tərəfindən təsis edilmiş, Azərbaycan
           Respublikası Mərkəzi Bankı tərəfindən verilmiş SA – 0337 saylı lisenziya əsasında sayt üzərindən sığorta fəaliyyətinə
           başlanmışdır. Saytın təsis edilməsində məqsəd sığorta şirkətləri ilə müştərilər arasında sığorta vasitəçiliyi etməklə
           asan, operativ və peşəkar xidmət göstərməkdir. Əsas üstünlüyümüz Azərbaycanda fəaliyyət göstərən sığorta şirkətlərinin
@@ -33,7 +33,7 @@ function updateContent(page, language) {
    Информация
   </h1>
         <p class="mt-5 md:text-[1.2rem] text-white">
-          Сайт www.1sigorta.az был основан 19.07.2024 года Мирджафаром Мирели оглы Джафаровым и начал свою деятельность в области страхования на основании лицензии SA – 0337, выданной Центральным банком Азербайджанской Республики. Целью создания сайта является предоставление легкого, оперативного и профессионального обслуживания клиентов через посредничество между страховыми компаниями и клиентами. Нашим основным преимуществом является возможность предложить клиентам более 20 страховых продуктов от страховых компаний, действующих в Азербайджане, и организовать их продажу.
+          Сайт www.myinsure.com был основан 19.07.2024 года Мирджафаром Мирели оглы Джафаровым и начал свою деятельность в области страхования на основании лицензии SA – 0337, выданной Центральным банком Азербайджанской Республики. Целью создания сайта является предоставление легкого, оперативного и профессионального обслуживания клиентов через посредничество между страховыми компаниями и клиентами. Нашим основным преимуществом является возможность предложить клиентам более 20 страховых продуктов от страховых компаний, действующих в Азербайджане, и организовать их продажу.
         </p>
 
         <p class="mt-3 md:text-[1.2rem] text-white">
@@ -84,7 +84,7 @@ function updateContent(page, language) {
     Missiya
   </h1>
         <p class="mt-5 md:text-[1.2rem] text-white">
-          www.1sigorta.az saytı müasir texnologiyalara əsaslanmaqla keyfiyyətli və etibarlı universal sığorta xidmətləri göstərən
+          www.myinsure.com saytı müasir texnologiyalara əsaslanmaqla keyfiyyətli və etibarlı universal sığorta xidmətləri göstərən
           güvənli və ictimai əhəmiyyətli vasitəçi sayt olmağı özünün strateji baxışı hesab edir.
         </p>
 
@@ -111,7 +111,7 @@ function updateContent(page, language) {
     Миссия
   </h1>
         <p class="mt-5 md:text-[1.2rem] text-white">
-          Сайт www.1sigorta.az рассматривает свою стратегическую цель как надежный и общественно значимый посреднический сайт, предоставляющий качественные и надежные универсальные страховые услуги на основе современных технологий.
+          Сайт www.myinsure.com рассматривает свою стратегическую цель как надежный и общественно значимый посреднический сайт, предоставляющий качественные и надежные универсальные страховые услуги на основе современных технологий.
         </p>
 
         <p class="mt-3 md:text-[1.2rem] text-white">
@@ -137,7 +137,7 @@ function updateContent(page, language) {
     Biznesə yanaşma
   </h1>
             <p class="mt-5 md:text-[1.2rem] text-white">
-              www.1sigorta.az saytının biznesə yanaşması, bazarda uğur qazanmaq, müştəri bazasını genişləndirmək və effektiv fəaliyyət göstərmək üçün tətbiq etdiyi strategiyaları əhatə edir. 1sigorta.az saytı üçün biznes yanaşması aşağıdakı əsas aspektləri əhatə edir:
+              www.myinsure.com saytının biznesə yanaşması, bazarda uğur qazanmaq, müştəri bazasını genişləndirmək və effektiv fəaliyyət göstərmək üçün tətbiq etdiyi strategiyaları əhatə edir. myinsure.com saytı üçün biznes yanaşması aşağıdakı əsas aspektləri əhatə edir:
             </p>
           
             <p class="mt-3 md:text-[1.2rem] text-white">
@@ -193,7 +193,7 @@ function updateContent(page, language) {
     Подход к бизнесу
   </h1>
             <p class="mt-5 md:text-[1.2rem] text-white">
-              Подход сайта www.1sigorta.az к бизнесу охватывает стратегии, применяемые для достижения успеха на рынке, расширения клиентской базы и эффективного ведения деятельности. Для сайта 1sigorta.az бизнес-подход включает следующие основные аспекты:
+              Подход сайта www.myinsure.com к бизнесу охватывает стратегии, применяемые для достижения успеха на рынке, расширения клиентской базы и эффективного ведения деятельности. Для сайта myinsure.com бизнес-подход включает следующие основные аспекты:
             </p>
           
             <p class="mt-3 md:text-[1.2rem] text-white">
